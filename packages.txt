@@ -1,5 +1,0 @@
-# System (apt) packages installed by Hugging Face Spaces before pip install.
-# Required by OpenCV / torch / image codecs in the Spaces Docker image.
-libgl1
-libglib2.0-0
-ffmpeg
